@@ -1,5 +1,5 @@
 <h1>Hi, I'm Douglas Silva!:D</h2>
-<p>I'm a {FullStack Developer ReactJs/Next, NodeJs, TypeScritp, SQL, NoSQL}</p>
+<p>I'm a {Frontend Developer ReactJs/Next, NodeJs, TypeScritp, SQL, NoSQL}</p>
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-silva-926345147/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dodo_odouglas/)
