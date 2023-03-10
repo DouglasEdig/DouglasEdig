@@ -16,15 +16,15 @@
     <p align="center">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Logo do TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="Logo do React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <img align="center" alt="Logo do Reactnative" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+      <img align="center" alt="Logo do React" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      <img align="center" alt="Logo do Reactnative" height="45" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
       <img align="center" alt="Logo do HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Logo do CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Logo do styled" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"> 
-      <img align="center" alt="Logo do Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="Logo do sass" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
-      <img align="center" alt="Logo do sass" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
-      <img align="center" alt="Logo do Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="Logo do styled" height="45" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"> 
+      <img align="center" alt="Logo do Bootstrap" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="Logo do sass" height="45" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
+      <img align="center" alt="Logo do sass" height="45" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
+      <img align="center" alt="Logo do Nodejs" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     </p>
   </div>
 </a> 
