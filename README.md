@@ -30,15 +30,12 @@
 
 <br>
 <br>
-  
-<div> 
-  <p align="center">
+
     [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-silva-926345147/)
     [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dodo_odouglas/)
     [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ediigas1)
     [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:douglas.edig@outlook.com)
-  </p>
-</div>
+
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
@@ -46,7 +43,6 @@
 
 ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
 
-<h1>Hi, I'm Douglas Silva!:D</h2>
-<p>I'm a {Frontend Developer ReactJs/Next, NodeJs and TypeScritp}</p>
+
   
 
