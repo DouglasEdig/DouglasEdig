@@ -13,7 +13,7 @@
   <br>
   
   <div style="display: inline_block">
-    <p align="center" style="gap: 8">
+    <p align="center" >
       <img align="center" alt="Logo do TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="Logo do React" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" alt="Logo do React" height="45" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
